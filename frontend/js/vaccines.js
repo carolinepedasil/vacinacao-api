@@ -1,6 +1,6 @@
 var objJson = [];
 
-const URL = `http://localhost:3000/vaccines`;
+const URL = `https://caroline-vacinacao-api.herokuapp.com/vaccines`;
 
 function getVaccine() {
   fetch(URL)

@@ -23,12 +23,13 @@
 					}
 				},
 				"url": {
-					"raw": "http://localhost:3000/vaccines",
-					"protocol": "http",
+					"raw": "https://caroline-vacinacao-api.herokuapp.com/vaccines",
+					"protocol": "https",
 					"host": [
-						"localhost"
+						"caroline-vacinacao-api",
+						"herokuapp",
+						"com"
 					],
-					"port": "3000",
 					"path": [
 						"vaccines"
 					]
@@ -42,12 +43,13 @@
 				"method": "GET",
 				"header": [],
 				"url": {
-					"raw": "http://localhost:3000/vaccines",
-					"protocol": "http",
+					"raw": "https://caroline-vacinacao-api.herokuapp.com/vaccines",
+					"protocol": "https",
 					"host": [
-						"localhost"
+						"caroline-vacinacao-api",
+						"herokuapp",
+						"com"
 					],
-					"port": "3000",
 					"path": [
 						"vaccines"
 					]
@@ -61,12 +63,13 @@
 				"method": "GET",
 				"header": [],
 				"url": {
-					"raw": "http://localhost:3000/vaccines/:id",
-					"protocol": "http",
+					"raw": "https://caroline-vacinacao-api.herokuapp.com/vaccines/:id",
+					"protocol": "https",
 					"host": [
-						"localhost"
+						"caroline-vacinacao-api",
+						"herokuapp",
+						"com"
 					],
-					"port": "3000",
 					"path": [
 						"vaccines",
 						":id"
@@ -96,12 +99,13 @@
 					}
 				},
 				"url": {
-					"raw": "http://localhost:3000/vaccines/:id/vaccinated",
-					"protocol": "http",
+					"raw": "https://caroline-vacinacao-api.herokuapp.com/vaccines/:id/vaccinated",
+					"protocol": "https",
 					"host": [
-						"localhost"
+						"caroline-vacinacao-api",
+						"herokuapp",
+						"com"
 					],
-					"port": "3000",
 					"path": [
 						"vaccines",
 						":id",
